@@ -28,7 +28,7 @@
     <img align="center" alt="Redux" src="https://img.shields.io/badge/redux-F05032?style=for-the-badge&logo=redux&logoColor=white" />
     <img align="center" alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
+    <img align="center" alt="Ant-Design" src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white"/>
     <img align="center" alt="chakra" src="https://shields.io/badge/chakra--ui-black?logo=chakraui&style=for-the-badge" />
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8b12fd?style=for-the-badge&logo=Bootstrap&logoColor=white" />
     <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-38bdf8?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
@@ -39,8 +39,8 @@
     <img align="center" alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
     <img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img align="center" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+    <img align="center" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
