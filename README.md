@@ -2,7 +2,7 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Frontend+Web+developer!+%F0%9F%92%BB)](https://github.com/AkhmedovBotir)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Full+Stack+Web+developer!+%F0%9F%92%BB)](https://github.com/AkhmedovBotir)
 
 - 🌱 I’m currently learning Nextjs and Typescript
 - 💬 Ask me about Web sites Javascript or Reactjs
