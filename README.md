@@ -1,7 +1,7 @@
 # Hi there, I'm Botir! 👋
 
 ## 🚀 About Me
-I'm a **Full Stack Developer** with expertise in **JavaScript, React, Node.js, and C++**. Passionate about building scalable web applications, game servers, and mobile apps. Currently, I'm exploring **.NET development** and enhancing my skills in **backend architecture**.
+I'm a **Full Stack Developer** with expertise in **JavaScript, React, Node.js**. Passionate about building scalable web applications and mobile apps.
 
 ## 💻 Tech Stack
 ### **Frontend**
@@ -26,10 +26,9 @@ I'm a **Full Stack Developer** with expertise in **JavaScript, React, Node.js, a
 - Linux System Administration
 
 ## 📌 Current Projects
-- **E-commerce Platform** (React, Node.js, MongoDB)
-- **Taxi Service App** (React Native, Yandex Maps API)
-- **Game Server Development** (C++ / Node.js)
-- **UI Component Library for React**
+- **MixMall App** (React Native, Expo)
+- **MixMall Web App** (ReactJS, Nodejs, ExpressJS, MongoDB, Material-UI, TailwindCSS)
+- **OrzuCRM** (ReactJS, Node.js, TailwindCSS, ExpressJS, MongoDB)
 
 ## 📫 Connect with Me
 - GitHub: [github.com/your-username](https://github.com/your-username)
