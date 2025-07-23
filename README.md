@@ -79,7 +79,6 @@ I have professional experience in:
 
 ### 📬 Contact Me
 
-- Email: `akhmedovbotir.dev@gmail.com`  
 - Telegram: [@akhmedovbotirofficial](https://t.me/akhmedovbotirofficial)  
 - LinkedIn: [linkedin.com/in/akhmedov-botir-uz](https://linkedin.com/in/akhmedov-botir-uz)
 
