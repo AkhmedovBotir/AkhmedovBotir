@@ -1,39 +1,89 @@
-# Hi there, I'm Botir! 👋
+<h1 align="center">Hi, I'm Botir Akhmedov 👋</h1>
+<h3 align="center">Full-Stack Developer | Mentor | Creator</h3>
 
-## 🚀 About Me
-I'm a **Full Stack Developer** with expertise in **JavaScript, React, Node.js**. Passionate about building scalable web applications and mobile apps.
+<p align="center">
+  <a href="https://github.com/AkhmedovBotir" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=AkhmedovBotir&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-## 💻 Tech Stack
-### **Frontend**
-- React.js
-- HTML, CSS, SCSS, Tailwind CSS
-- React Router, Material-UI
-- Axios, Fetch API
-- Figma for UI/UX design
+---
 
-### **Backend**
-- Node.js, Express.js
-- MongoDB, MySQL
-- WebSocket, JWT, Bcrypt, CORS
-- PM2 for process management
+### 🧑‍💻 About Me
 
-### **Mobile Development**
-- React Native + Expo
+I'm a passionate **Full-Stack Developer** from Uzbekistan 🇺🇿  
+I specialize in building scalable and secure **web** and **mobile applications** using modern JavaScript technologies.  
+I have professional experience in:
 
-### **Other Skills**
-- Git, GitHub
-- Vercel, Hosting
-- Linux System Administration
+- E-commerce platforms  
+- CRM/ERP systems  
+- Admin dashboards  
+- Real-time applications  
+- Teaching and mentoring IT students  
 
-## 📌 Current Projects
-- **MixMall App** (React Native, Expo)
-- **MixMall Web App** (ReactJS, Nodejs, ExpressJS, MongoDB, Material-UI, TailwindCSS)
-- **OrzuCRM** (ReactJS, Node.js, TailwindCSS, ExpressJS, MongoDB)
+💡 I'm also exploring:
+- Linux server administration
+- C/C++ for low-level system and game programming
+- Cybersecurity & infrastructure automation
 
-## 📫 Connect with Me
-- GitHub: [github.com/your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+---
 
-Let's collaborate and build something amazing! 🚀
+### 🛠️ Tech Stack
+
+#### 💻 Frontend:
+`HTML` `CSS` `JavaScript` `React.js` `Vue.js` `Next.js` `Astro` `TailwindCSS` `Material-UI` `AntDesign` `Framer Motion`
+
+#### 🔧 Backend:
+`Node.js` `Express.js` `Socket.IO` `GraphQL` `MongoDB` `MySQL` `PostgreSQL` `Redis` `OracleDB` `Sequelize` `Nginx`
+
+#### 📱 Mobile:
+`React Native` `Expo`
+
+#### 🧩 Tools & Others:
+`Git` `GitHub` `Linux` `Firebase` `Docker` `Vite` `Figma` `Electron.js` `TypeScript`
+
+---
+
+### 📂 Featured Projects
+
+#### 🔹 Mixmall – E-commerce Web & Mobile Platform
+*React.js, React Native, Node.js, MongoDB, TailwindCSS, Socket.IO*  
+→ Full web and mobile solution for online store & delivery system.
+
+#### 🔹 OrzuCRM – Sales Management Platform  
+*React.js, Node.js, MongoDB*  
+→ CRM system with dashboards for admins, agents & shop integration.
+
+#### 🔹 Winstrike Bar & Seller  
+→ POS-like system for bar and product management for sellers and admins.
+
+#### 🔹 AMC CRM  
+→ Lightweight CRM with Android support for small stores.
+
+#### 🔹 Education ERP/CRM  
+→ Internal system for student, staff, and finance management.
+
+> 📌 Demo & source code available upon request.
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AkhmedovBotir&show_icons=true&theme=react" alt="Botir GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AkhmedovBotir&theme=react" alt="Streak Stats"/>
+</p>
+
+---
+
+### 📬 Contact Me
+
+- Email: `akhmedovbotir.dev@gmail.com`  
+- Telegram: [@akhmedovbotirofficial](https://t.me/akhmedovbotirofficial)  
+- LinkedIn: [linkedin.com/in/akhmedov-botir-uz](https://linkedin.com/in/akhmedov-botir-uz)
+
+---
+
+> 💙 Thank you for visiting my GitHub! Let's build something amazing together!
 
