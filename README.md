@@ -16,7 +16,7 @@
 [![](https://komarev.com/ghpvc/?username=AkhmedovBotir&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/akhmedovbotir) 
-  [![Tirikchilik](https://img.shields.io/badge/Tirikchilik-Qo'llab--quvvatlash-00B259?style=for-the-badge&logo=coffee&logoColor=white)](https://tirikchilik.uz/botirakhmedov)
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/akhmedovbotir) <br />
+  [![Tirikchilik]](https://tirikchilik.uz/botirakhmedov)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
