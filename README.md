@@ -12,17 +12,11 @@
 ![](https://streak-stats.demolab.com/?user=AkhmedovBotir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=AkhmedovBotir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AkhmedovBotir&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AkhmedovBotir&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 [![](https://komarev.com/ghpvc/?username=AkhmedovBotir&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/akhmedovbotir) 
-
+  [![Tirikchilik](https://img.shields.io/badge/Tirikchilik-Qo'llab--quvvatlash-00B259?style=for-the-badge&logo=coffee&logoColor=white)](https://tirikchilik.uz/botirakhmedov)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
