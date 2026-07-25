@@ -1,7 +1,6 @@
 # 💫 About Me:
 🚀 I'm currently working on developing scalable Full-Stack & AI solutions using Node.js, Go, Python, React, and React Native. <br>🤝 I'm looking to collaborate on innovative automation projects, API integrations, and cutting-edge AI-powered applications. <br>💡 I'm looking for help with deep dives into advanced cybersecurity architecture and next-level applied AI concepts. <br>🌱 I'm currently learning open-source LLMs, prompt engineering techniques, and server management best practices. <br>💬 Ask me about cybersecurity, backend development, system architecture, or IT mentoring. <br>⚡ Fun fact: I've mentored 100+ students in tech & cybersecurity while simultaneously architecting real-world enterprise applications!
 
-### 🐍 Contribution Eating Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkhmedovBotir/AkhmedovBotir/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkhmedovBotir/AkhmedovBotir/output/github-snake.svg">
@@ -11,7 +10,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akhmedovbotirofficial) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmedov-botir-uz/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:botircoders@gmail.com) 
 
-<br /><hr />
+<hr />
 
 # 💻 Tech Stack:
 
