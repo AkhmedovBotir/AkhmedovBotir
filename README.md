@@ -13,15 +13,16 @@
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **🤖 AI & Dev Tools** | Cursor, Claude AI, Windsurf |
+| **🤖 AI & Dev Tools** | Cursor, Claude AI, Windsurf, Ollama, LangChain, OpenAI API, GenAI |
+| **🛡️ Cybersecurity & Network** | Linux Security, Nmap, OWASP Top 10, Metasploit, Burp Suite, JWT Architecture |
 | **🚀 Languages** | JavaScript, TypeScript, Python, Go, PHP, C++ |
-| **🎨 Frontend & Mobile** | HTML5, CSS3, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte, SvelteKit, SolidJS, Astro, Flutter, Ionic, Electron.js, Expo |
-| **⚙️ Backend & APIs** | Node.js, Express.js, NestJS, Fastify, FastAPI, Deno, Socket.io, GraphQL, RabbitMQ, JWT, OpenAPI, Swagger, Twilio |
-| **🛢️ Databases & ORM** | PostgreSQL, MongoDB, MySQL, MariaDB, SQLite, Redis, Supabase, Firebase, Prisma, Sequelize, Elasticsearch |
+| **🎨 Frontend & Mobile** | HTML5, CSS3, PWA, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte, SvelteKit, SolidJS, Astro, Flutter, Ionic, Electron.js, Expo |
+| **⚙️ Backend & Architecture** | Node.js, Express.js, NestJS, Fastify, FastAPI, Deno, Socket.io, gRPC, Kafka, NATS, GraphQL, RabbitMQ, JWT, OpenAPI, Swagger, Twilio, System Architecture, Microservices, Modular Monolith, Clean Architecture |
+| **🛢️ Databases & Search** | PostgreSQL, MongoDB, MySQL, MariaDB, SQLite, Redis, Supabase, Firebase, Prisma, Sequelize, Elasticsearch |
 | **💅 UI & Styling** | TailwindCSS, Bootstrap, SASS, Less, Styled Components, MUI, Chakra UI, Ant Design, Radix UI, DaisyUI, Vuetify, Quasar, Semantic UI, Framer Motion, Three.js, WebGL, OpenGL, OpenCV, Chart.js |
 | **☁️ Cloud & Servers** | AWS, Azure, Google Cloud, Cloudflare, DigitalOcean, Vercel, Netlify, Render, Heroku, OpenStack, Nginx, Apache |
 | **🧪 Testing & Build Tools** | Redux, React Query, Context API, React Router, React Hook Form, Jest, Vitest, Cypress, Testing Library, Webpack, Vite, Esbuild, Gulp, Gradle |
-| **🛠️ DevOps & Tools** | Docker, Git, GitHub, GitLab, Gitpod, NPM, Yarn, Postman, ESLint, Nodemon, Figma, Canva, Jira, Trello, Notion, Storybook, Windows Terminal, Markdown |
+| **🛠️ DevOps & Tools** | CI/CD, Docker, Git, GitHub, GitLab, Gitpod, NPM, Yarn, Postman, ESLint, Nodemon, Figma, Canva, Jira, Trello, Notion, Storybook, Windows Terminal, Markdown |
 | **🧱 CMS & Templates** | WordPress, Web3.js, NVIDIA CUDA, FFmpeg, jQuery, Pug, EJS, Handlebars, Quill |
 
 ---
