@@ -1,70 +1,72 @@
 # 💫 About Me:
 
-- 🚀 **Currently working on:** Scalable Full-Stack & AI solutions using Node.js, Go, Python, React, and React Native.
-- 🤝 **Looking to collaborate on:** Innovative automation projects, API integrations, and cutting-edge AI-powered applications.
-- 💡 **Looking for help with:** Deep dives into advanced cybersecurity architecture and next-level applied AI concepts.
-- 🌱 **Currently learning:** Open-source LLMs, prompt engineering techniques, and server management best practices.
-- 💬 **Ask me about:** Cybersecurity, backend development, system architecture, or IT mentoring.
-- ⚡ **Fun fact:** I've mentored 100+ students in tech & cybersecurity while simultaneously architecting real-world enterprise applications!
+- 👨‍💻 **Role & Focus:** Full Stack & Systems Engineer focused on scalable Backend Architecture, AI-powered systems (RAG, LLMs), and High-Performance Web/Mobile applications.
+- 🏗️ **Core Expertise:** Building microservices and enterprise solutions using **Go**, **Node.js**, **Python**, **React**, and **React Native**.
+- 🤖 **AI & Infrastructure:** Integrating production-ready AI workflows, vector engines, and custom model integrations for real-world products.
+- 🎓 **Mentoring & Impact:** Mentored **100+ engineers** in Full Stack development and System Security fundamentals.
+- 💬 **Let's Connect:** System Architecture, High-Load Backend, AI Infrastructure, or Strategic Tech Collaborations.
 
 ---
 
 # 💻 Core Tech Stack:
 
-| Category | Core Technologies & Architecture |
+| Category | Core Technologies |
 | :--- | :--- |
-| **🤖 AI & Intelligent Systems** | Ollama, LangChain, OpenAI API, GenAI, RAG Architecture |
-| **🚀 Languages** | TypeScript, Go, Python, JavaScript, PHP, C++ |
-| **⚙️ Backend & Architecture** | Node.js, NestJS, Fastify, FastAPI, Go (Golang), gRPC, Microservices, System Architecture, Clean Architecture, Modular Monolith |
-| **🔀 Event Streaming & Messaging** | Kafka, NATS, RabbitMQ, Socket.io |
-| **🎨 Frontend & Mobile** | React, React Native, Next.js, Vue.js, Nuxt.js, PWA, Expo, TailwindCSS |
-| **🛢️ Databases & Search Engines** | PostgreSQL, MongoDB, Redis, Elasticsearch, MySQL, Supabase, Prisma |
-| **☁️ Cloud & DevOps** | Docker, CI/CD, Nginx, AWS, Cloudflare, DigitalOcean, Vercel |
-| **🛡️ Cybersecurity & Auditing** | Linux Security, OWASP Top 10, Nmap, Burp Suite, Metasploit, Secure Auth Architecture |
-| **🧪 Testing & Quality Assurance** | Jest, Vitest, Cypress, Postman |
+| **🤖 AI & Intelligent Systems** | Ollama, LangChain, OpenAI API, RAG Architecture |
+| **🚀 Languages** | TypeScript, Go, Python, JavaScript |
+| **⚙️ Backend** | Node.js, NestJS, Fastify, FastAPI, Go (Golang), gRPC, Kafka, NATS, RabbitMQ, Socket.io |
+| **🎨 Frontend & Mobile** | React, React Native, Next.js, Vue.js, Nuxt.js, TailwindCSS |
+| **🛢️ Databases & Search Engines** | PostgreSQL, MongoDB, Redis, Elasticsearch, MySQL |
+| **☁️ Cloud & DevOps** | Docker, CI/CD, Nginx, AWS, Cloudflare |
+| **🧪 Testing & Quality Assurance** | Jest, Vitest, Cypress |
 
 ---
 
-# 📁 Projects & Repositories:
+# 🏛️ Engineering Principles:
 
-| Status | Project Name | Tech Stack / Description |
+- 📐 **Clean & Maintainable Architecture:** Prioritizing DDD, SOLID principles, and modular codebase structure.
+- ⚡ **High Availability & Scale:** Designing resilient distributed backends with robust error handling, caching, and async messaging.
+- 🔒 **Security First:** Enforcing strict authentication workflows, least-privilege access, and OWASP-compliant API definitions.
+- 🤖 **Pragmatic AI Integration:** Implementing AI agents and RAG pipelines to solve real business bottlenecks.
+
+---
+
+# 📁 Featured Projects & Enterprise Repositories:
+
+| Status | Project Name | Tech Stack & Focus Area |
 | :---: | :--- | :--- |
-| 🌐 `Public` | **smart-joy-foydalanuvchi** | TypeScript, JavaScript, Go |
-| 🔒 `Private` | **Aqlli-Bolajon** | Go, TypeScript, JavaScript |
-| 🔒 `Private` | **my-diller-project** | TypeScript, Go |
-| 🌐 `Public` | **Ko-mirchi** | JavaScript |
-| 🌐 `Public` | **Foydalanuvchi-baza-uchun** | Go, TypeScript |
-| 🌐 `Public` | **Davronbek-Turdiyev-Akademiyasi-uchun** | Go, JavaScript, TypeScript |
-| 🌐 `Public` | **Aqlli-Bolajon-omadli-o-yin** | Go, TypeScript |
-| 🌐 `Public` | **task-backend-golang** | Go |
-| 🌐 `Public` | **sheriklar.uz** | TypeScript, JavaScript, Go |
-| 🌐 `Public` | **BITO-POS-TASK** | TypeScript |
-| 🔒 `Private` | **Talab-va-taklif-Agency-Marketplace-System** | Go, JavaScript, TypeScript |
-| 🌐 `Public` | **qr-video-books** | JavaScript |
-| 🌐 `Public` | **kletka-startup** | TypeScript, JavaScript |
-| 🌐 `Public` | **ishber.uz** | JavaScript |
-| 🌐 `Public` | **KPI-tizim** | JavaScript *(TTSA xodimlari uchun ichki tizim)* |
-| 🌐 `Public` | **Sotuv-tizim** | JavaScript |
-| 🌐 `Public` | **Xisobot** | JavaScript |
-| 🌐 `Public` | **Recruiting-Company** | JavaScript |
-| 🌐 `Public` | **HRM-platform** | JavaScript |
-| 🌐 `Public` | **Muborak-business-club landing page** | TypeScript |
-| 🌐 `Public` | **Muborak-CLUB Bot system** | TypeScript, JavaScript |
-| 🌐 `Public` | **Document-translator-to-uzbek** | TypeScript |
-| 🌐 `Public` | **URL-Shortener-full-Backend** | JavaScript |
-| 🌐 `Public` | **Student-reception-telegram-bot** | HTML |
-| 🌐 `Public` | **insurance-applications-telegram-bot** | Handlebars |
-| 🌐 `Public` | **truck-telegram-bot** | Python |
-| 🌐 `Public` | **LMS-project** | TypeScript, JavaScript |
-| 🌐 `Public` | **Bir-oila-shajara** | PHP, TypeScript |
-| 🌐 `Public` | **Seller-Telegram-bot** | JavaScript |
-| 🌐 `Public` | **AMC-Shopping-System** | JavaScript, TypeScript |
-| 🌐 `Public` | **Andijon-Toshkent-Taxi-System** | JavaScript |
-| 🌐 `Public` | **MixMall** | TypeScript, JavaScript |
-| 🌐 `Public` | **ORZU-CRM** | JavaScript |
-| 🌐 `Public` | **SMS-Bomber-bot** | Python |
-| 🌐 `Public` | **Bar-System** | JavaScript |
-| 🌐 `Public` | **Qarz-Daftari** | TypeScript |
+| 🔒 `Private` | **Talab-va-taklif-Agency-Marketplace-System** | Go, PostgreSQL, Nginx, TypeScript, React *(B2B/B2C Logistics & Supply)* |
+| 🔒 `Private` | **Aqlli-Bolajon** | Go, TypeScript, React Native, Node.js *(EdTech Ecosystem & Video Lessons)* |
+| 🔒 `Private` | **my-diller-project** | TypeScript, Go, Microservices Architecture *(Commercial Platform)* |
+| 🌐 `Public` | **sheriklar.uz** | TypeScript, JavaScript, Go, PostgreSQL *(P2P Asset Sharing & Agro Cooperation)* |
+| 🌐 `Public` | **KPI-tizim** | JavaScript, Node.js, React *(Enterprise Performance Analytics)* |
+| 🌐 `Public` | **HRM-platform** | JavaScript, Node.js, React *(Human Resource & Workforce System)* |
+| 🌐 `Public` | **LMS-project** | TypeScript, JavaScript, Node.js *(Learning Management Platform)* |
+| 🌐 `Public` | **BITO-POS-TASK** | TypeScript, React *(Point of Sale System)* |
+
+---
+
+# 📊 GitHub Analytics:
+
+<table border="0" align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api?username=AkhmedovBotir&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Botir's GitHub Stats" height="165" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com/?user=AkhmedovBotir&theme=dark&hide_border=false" alt="GitHub Streak" height="165" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkhmedovBotir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="165" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhmedovBotir&theme=react-dark" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
