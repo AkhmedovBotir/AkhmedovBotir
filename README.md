@@ -9,21 +9,19 @@
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Core Tech Stack:
 
-| Category | Technologies & Tools |
+| Category | Core Technologies & Architecture |
 | :--- | :--- |
-| **🤖 AI & Dev Tools** | Cursor, Claude AI, Windsurf, Ollama, LangChain, OpenAI API, GenAI |
-| **🛡️ Cybersecurity & Network** | Linux Security, Nmap, OWASP Top 10, Metasploit, Burp Suite, JWT Architecture |
-| **🚀 Languages** | JavaScript, TypeScript, Python, Go, PHP, C++ |
-| **🎨 Frontend & Mobile** | HTML5, CSS3, PWA, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte, SvelteKit, SolidJS, Astro, Flutter, Ionic, Electron.js, Expo |
-| **⚙️ Backend & Architecture** | Node.js, Express.js, NestJS, Fastify, FastAPI, Deno, Socket.io, gRPC, Kafka, NATS, GraphQL, RabbitMQ, JWT, OpenAPI, Swagger, Twilio, System Architecture, Microservices, Modular Monolith, Clean Architecture |
-| **🛢️ Databases & Search** | PostgreSQL, MongoDB, MySQL, MariaDB, SQLite, Redis, Supabase, Firebase, Prisma, Sequelize, Elasticsearch |
-| **💅 UI & Styling** | TailwindCSS, Bootstrap, SASS, Less, Styled Components, MUI, Chakra UI, Ant Design, Radix UI, DaisyUI, Vuetify, Quasar, Semantic UI, Framer Motion, Three.js, WebGL, OpenGL, OpenCV, Chart.js |
-| **☁️ Cloud & Servers** | AWS, Azure, Google Cloud, Cloudflare, DigitalOcean, Vercel, Netlify, Render, Heroku, OpenStack, Nginx, Apache |
-| **🧪 Testing & Build Tools** | Redux, React Query, Context API, React Router, React Hook Form, Jest, Vitest, Cypress, Testing Library, Webpack, Vite, Esbuild, Gulp, Gradle |
-| **🛠️ DevOps & Tools** | CI/CD, Docker, Git, GitHub, GitLab, Gitpod, NPM, Yarn, Postman, ESLint, Nodemon, Figma, Canva, Jira, Trello, Notion, Storybook, Windows Terminal, Markdown |
-| **🧱 CMS & Templates** | WordPress, Web3.js, NVIDIA CUDA, FFmpeg, jQuery, Pug, EJS, Handlebars, Quill |
+| **🤖 AI & Intelligent Systems** | Ollama, LangChain, OpenAI API, GenAI, RAG Architecture |
+| **🚀 Languages** | TypeScript, Go, Python, JavaScript, PHP, C++ |
+| **⚙️ Backend & Architecture** | Node.js, NestJS, Fastify, FastAPI, Go (Golang), gRPC, Microservices, System Architecture, Clean Architecture, Modular Monolith |
+| **🔀 Event Streaming & Messaging** | Kafka, NATS, RabbitMQ, Socket.io |
+| **🎨 Frontend & Mobile** | React, React Native, Next.js, Vue.js, Nuxt.js, PWA, Expo, TailwindCSS |
+| **🛢️ Databases & Search Engines** | PostgreSQL, MongoDB, Redis, Elasticsearch, MySQL, Supabase, Prisma |
+| **☁️ Cloud & DevOps** | Docker, CI/CD, Nginx, AWS, Cloudflare, DigitalOcean, Vercel |
+| **🛡️ Cybersecurity & Auditing** | Linux Security, OWASP Top 10, Nmap, Burp Suite, Metasploit, Secure Auth Architecture |
+| **🧪 Testing & Quality Assurance** | Jest, Vitest, Cypress, Postman |
 
 ---
 
