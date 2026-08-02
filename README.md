@@ -9,14 +9,6 @@
 
 ---
 
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/akhmedovbotirofficial)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedov-botir-uz/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:botircoders@gmail.com)
-
----
-
 # 💻 Tech Stack:
 
 | Category | Technologies & Tools |
@@ -34,15 +26,46 @@
 
 ---
 
-# 📊 GitHub Stats:
+# 📁 Projects & Repositories:
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=AkhmedovBotir&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Botir's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=AkhmedovBotir&theme=dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=AkhmedovBotir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <br /><br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkhmedovBotir&theme=react-dark" alt="Activity Graph" width="100%" />
-</p>
+| Status | Project Name | Tech Stack / Description |
+| :---: | :--- | :--- |
+| 🌐 `Public` | **smart-joy-foydalanuvchi** | TypeScript, JavaScript, Go |
+| 🔒 `Private` | **Aqlli-Bolajon** | Go, TypeScript, JavaScript |
+| 🔒 `Private` | **my-diller-project** | TypeScript, Go |
+| 🌐 `Public` | **Ko-mirchi** | JavaScript |
+| 🌐 `Public` | **Foydalanuvchi-baza-uchun** | Go, TypeScript |
+| 🌐 `Public` | **Davronbek-Turdiyev-Akademiyasi-uchun** | Go, JavaScript, TypeScript |
+| 🌐 `Public` | **Aqlli-Bolajon-omadli-o-yin** | Go, TypeScript |
+| 🌐 `Public` | **task-backend-golang** | Go |
+| 🌐 `Public` | **sheriklar.uz** | TypeScript, JavaScript, Go |
+| 🌐 `Public` | **BITO-POS-TASK** | TypeScript |
+| 🔒 `Private` | **Talab-va-taklif-Agency-Marketplace-System** | Go, JavaScript, TypeScript |
+| 🌐 `Public` | **qr-video-books** | JavaScript |
+| 🌐 `Public` | **kletka-startup** | TypeScript, JavaScript |
+| 🌐 `Public` | **ishber.uz** | JavaScript |
+| 🌐 `Public` | **KPI-tizim** | JavaScript *(TTSA xodimlari uchun ichki tizim)* |
+| 🌐 `Public` | **Sotuv-tizim** | JavaScript |
+| 🌐 `Public` | **Xisobot** | JavaScript |
+| 🌐 `Public` | **Recruiting-Company** | JavaScript |
+| 🌐 `Public` | **HRM-platform** | JavaScript |
+| 🌐 `Public` | **Muborak-business-club landing page** | TypeScript |
+| 🌐 `Public` | **Muborak-CLUB Bot system** | TypeScript, JavaScript |
+| 🌐 `Public` | **Document-translator-to-uzbek** | TypeScript |
+| 🌐 `Public` | **URL-Shortener-full-Backend** | JavaScript |
+| 🌐 `Public` | **Student-reception-telegram-bot** | HTML |
+| 🌐 `Public` | **insurance-applications-telegram-bot** | Handlebars |
+| 🌐 `Public` | **truck-telegram-bot** | Python |
+| 🌐 `Public` | **LMS-project** | TypeScript, JavaScript |
+| 🌐 `Public` | **Bir-oila-shajara** | PHP, TypeScript |
+| 🌐 `Public` | **Seller-Telegram-bot** | JavaScript |
+| 🌐 `Public` | **AMC-Shopping-System** | JavaScript, TypeScript |
+| 🌐 `Public` | **Andijon-Toshkent-Taxi-System** | JavaScript |
+| 🌐 `Public` | **MixMall** | TypeScript, JavaScript |
+| 🌐 `Public` | **ORZU-CRM** | JavaScript |
+| 🌐 `Public` | **SMS-Bomber-bot** | Python |
+| 🌐 `Public` | **Bar-System** | JavaScript |
+| 🌐 `Public` | **Qarz-Daftari** | TypeScript |
 
 ---
 
