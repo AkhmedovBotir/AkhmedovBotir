@@ -22,8 +22,8 @@
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **🤖 AI & Dev Tools** | Cursor, Claude AI, Windsurf |
-| **🚀 Languages** | JavaScript, TypeScript, Python, Go, PHP, C++, HTML5, CSS3 |
-| **🎨 Frontend & Mobile** | React, React Native, Next.js, Vue.js, Nuxt.js, Svelte, SvelteKit, SolidJS, Astro, Flutter, Ionic, Electron.js, Expo |
+| **🚀 Languages** | JavaScript, TypeScript, Python, Go, PHP, C++ |
+| **🎨 Frontend & Mobile** | HTML5, CSS3, React, React Native, Next.js, Vue.js, Nuxt.js, Svelte, SvelteKit, SolidJS, Astro, Flutter, Ionic, Electron.js, Expo |
 | **⚙️ Backend & APIs** | Node.js, Express.js, NestJS, Fastify, FastAPI, Deno, Socket.io, GraphQL, RabbitMQ, JWT, OpenAPI, Swagger, Twilio |
 | **🛢️ Databases & ORM** | PostgreSQL, MongoDB, MySQL, MariaDB, SQLite, Redis, Supabase, Firebase, Prisma, Sequelize, Elasticsearch |
 | **💅 UI & Styling** | TailwindCSS, Bootstrap, SASS, Less, Styled Components, MUI, Chakra UI, Ant Design, Radix UI, DaisyUI, Vuetify, Quasar, Semantic UI, Framer Motion, Three.js, WebGL, OpenGL, OpenCV, Chart.js |
