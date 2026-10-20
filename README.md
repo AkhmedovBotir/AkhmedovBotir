@@ -35,9 +35,9 @@
 
 | Status | Project Name | Tech Stack & Focus Area |
 | :---: | :--- | :--- |
-| 🔒 `Private` | **Talab-va-taklif-Agency-Marketplace-System** | Go, PostgreSQL, Nginx, TypeScript, React *(B2B/B2C Logistics & Supply)* |
-| 🔒 `Private` | **Aqlli-Bolajon** | Go, TypeScript, React Native, Node.js *(EdTech Ecosystem & Video Lessons)* |
-| 🔒 `Private` | **my-diller-project** | TypeScript, Go, Microservices Architecture *(Commercial Platform)* |
+| 🌐 `Public` | **Talab-va-taklif-Agency-Marketplace-System** | Go, PostgreSQL, Nginx, TypeScript, React *(B2B/B2C Logistics & Supply)* |
+| 🌐 `Public` | **Aqlli-Bolajon** | Go, TypeScript, React Native, Node.js *(EdTech Ecosystem & Video Lessons)* |
+| 🌐 `Public` | **my-diller-project** | TypeScript, Go, Microservices Architecture *(Commercial Platform)* |
 | 🌐 `Public` | **sheriklar.uz** | TypeScript, JavaScript, Go, PostgreSQL *(P2P Asset Sharing & Agro Cooperation)* |
 | 🌐 `Public` | **KPI-tizim** | JavaScript, Node.js, React *(Enterprise Performance Analytics)* |
 | 🌐 `Public` | **HRM-platform** | JavaScript, Node.js, React *(Human Resource & Workforce System)* |
